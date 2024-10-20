@@ -22,7 +22,7 @@ import pageObject.LandingPage;
 public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
-		
+		//jenkins automation
 		
 		
 		String productName = "ZARA COAT 3";
